@@ -1,0 +1,1 @@
+# nth-power-of-a-number
